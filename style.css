@@ -24,30 +24,30 @@ header {
   
 #main {
     float: left;
-    padding: 10px;
-    margin-bottom: 10px;
-    width: 47%;
+    padding: 20px;
+    margin: 10px 10px 10px 0px;
+    width: 495px;
     color: grey;
     background: #ebebeb;
 }
 
 #article {
-    padding: 10px;
-    margin-bottom: 10px;
+    padding: 20px;
+    margin: 10px 10px 10px 0px;
     color: #ebebeb;
     background: #777;
 }
 
 #h123 {
-    padding: 10px;
-    margin-bottom: 10px;
+    padding: 20px;
+    margin: 10px 10px 10px 0px;
     color: grey;
     background: #ebebeb;
 }
 
 #descript{
-    padding: 10px;
-    margin-bottom: 10px;
+    padding: 20px;
+    margin: 10px 10px 10px 0px;
     color: grey;
     background: #ebebeb;
 }
@@ -55,15 +55,14 @@ header {
 aside {
     float: right;
     padding: 10px;
-    margin-bottom: 20px;
-    width: 47%;
-    height: 170px;
+    margin: 10px 0px 10px 0px;
+    width: 40%;
+    height: 273px;
     color: grey;
     background: #ebebeb;
 }
   
 footer {
-    margin: 20px;
     padding: 20px;
     clear: both;
     color: grey;
